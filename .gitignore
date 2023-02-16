@@ -1,2 +1,2 @@
-echo ".vendor" >> .gitignore    
+echo "vendor" >> .gitignore    
 
